@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(#afe3ed , #edafaf);
+    text-align: center;
+    text color: cornflowerblue
+}
+img {
+    align-items: center;
+    height: 300px;
+    width: 300px;}
+h1 { font-size: 40px}
+
+p { font-size: 25px;color: white;font-family: 'Chilanka', cursive;}
